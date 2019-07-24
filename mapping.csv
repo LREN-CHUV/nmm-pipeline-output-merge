@@ -1,0 +1,139 @@
+original,translation
+id,subjectcode
+3rd Ventricle,_3rdventricle
+4th Ventricle,_4thventricle
+Right Accumbens Area,rightaccumbensarea
+Left Accumbens Area,leftaccumbensarea
+Right Amygdala,rightamygdala
+Left Amygdala,leftamygdala
+Brain Stem,brainstem
+Right Caudate,rightcaudate
+Left Caudate,leftcaudate
+Right Cerebellum Exterior,rightcerebellumexterior
+Left Cerebellum Exterior,leftcerebellumexterior
+Right Cerebellum White Matter,rightcerebellumwhitematter
+Left Cerebellum White Matter,leftcerebellumwhitematter
+Right Cerebral White Matter,rightcerebralwhitematter
+Left Cerebral White Matter,leftcerebralwhitematter
+CSF,csfglobal
+Right Hippocampus,righthippocampus
+Left Hippocampus,lefthippocampus
+Right Inf Lat Vent,rightinflatvent
+Left Inf Lat Vent,leftinflatvent
+Right Lateral Ventricle,rightlateralventricle
+Left Lateral Ventricle,leftlateralventricle
+Right Pallidum,rightpallidum
+Left Pallidum,leftpallidum
+Right Putamen,rightputamen
+Left Putamen,leftputamen
+Right Thalamus Proper,rightthalamusproper
+Left Thalamus Proper,leftthalamusproper
+Right Ventral DC,rightventraldc
+Left Ventral DC,leftventraldc
+Right vessel,DELETE
+Left vessel,DELETE
+Optic Chiasm,opticchiasm
+Cerebellar Vermal Lobules I-V,cerebellarvermallobulesiv
+Cerebellar Vermal Lobules VI-VII,cerebellarvermallobulesvivii
+Cerebellar Vermal Lobules VIII-X,cerebellarvermallobulesviiix
+Left Basal Forebrain,leftbasalforebrain
+Right Basal Forebrain,rightbasalforebrain
+Right ACgG anterior cingulate gyrus,rightacgganteriorcingulategyrus
+Left ACgG anterior cingulate gyrus,leftacgganteriorcingulategyrus
+Right AIns anterior insula,rightainsanteriorinsula
+Left AIns anterior insula,leftainsanteriorinsula
+Right AOrG anterior orbital gyrus,rightaorganteriororbitalgyrus
+Left AOrG anterior orbital gyrus,leftaorganteriororbitalgyrus
+Right AnG angular gyrus,rightangangulargyrus
+Left AnG angular gyrus,leftangangulargyrus
+Right Calc calcarine cortex,rightcalccalcarinecortex
+Left Calc calcarine cortex,leftcalccalcarinecortex
+Right CO central operculum,rightcocentraloperculum
+Left CO central operculum,leftcocentraloperculum
+Right Cun cuneus,rightcuncuneus
+Left Cun cuneus,leftcuncuneus
+Right Ent entorhinal area,rightententorhinalarea
+Left Ent entorhinal area,leftententorhinalarea
+Right FO frontal operculum,rightfofrontaloperculum
+Left FO frontal operculum,leftfofrontaloperculum
+Right FRP frontal pole,rightfrpfrontalpole
+Left FRP frontal pole,leftfrpfrontalpole
+Right FuG fusiform gyrus,rightfugfusiformgyrus
+Left FuG fusiform gyrus,leftfugfusiformgyrus
+Right GRe gyrus rectus,rightgregyrusrectus
+Left GRe gyrus rectus,leftgregyrusrectus
+Right IOG inferior occipital gyrus,rightioginferioroccipitalgyrus
+Left IOG inferior occipital gyrus,leftioginferioroccipitalgyrus
+Right ITG inferior temporal gyrus,rightitginferiortemporalgyrus
+Left ITG inferior temporal gyrus,leftitginferiortemporalgyrus
+Right LiG lingual gyrus,rightliglingualgyrus
+Left LiG lingual gyrus,leftliglingualgyrus
+Right LOrG lateral orbital gyrus,rightlorglateralorbitalgyrus
+Left LOrG lateral orbital gyrus,leftlorglateralorbitalgyrus
+Right MCgG middle cingulate gyrus,rightmcggmiddlecingulategyrus
+Left MCgG middle cingulate gyrus,leftmcggmiddlecingulategyrus
+Right MFC medial frontal cortex,rightmfcmedialfrontalcortex
+Left MFC medial frontal cortex,leftmfcmedialfrontalcortex
+Right MFG middle frontal gyrus,rightmfgmiddlefrontalgyrus
+Left MFG middle frontal gyrus,leftmfgmiddlefrontalgyrus
+Right MOG middle occipital gyrus,rightmogmiddleoccipitalgyrus
+Left MOG middle occipital gyrus,leftmogmiddleoccipitalgyrus
+Right MOrG medial orbital gyrus,rightmorgmedialorbitalgyrus
+Left MOrG medial orbital gyrus,leftmorgmedialorbitalgyrus
+Right MPoG postcentral gyrus medial segment,rightmpogpostcentralgyrusmedialsegment
+Left MPoG postcentral gyrus medial segment,leftmpogpostcentralgyrusmedialsegment
+Right MPrG precentral gyrus medial segment,rightmprgprecentralgyrusmedialsegment
+Left MPrG precentral gyrus medial segment,leftmprgprecentralgyrusmedialsegment
+Right MSFG superior frontal gyrus medial segment,rightmsfgsuperiorfrontalgyrusmedialsegment
+Left MSFG superior frontal gyrus medial segment,leftmsfgsuperiorfrontalgyrusmedialsegment
+Right MTG middle temporal gyrus,rightmtgmiddletemporalgyrus
+Left MTG middle temporal gyrus,leftmtgmiddletemporalgyrus
+Right OCP occipital pole,rightocpoccipitalpole
+Left OCP occipital pole,leftocpoccipitalpole
+Right OFuG occipital fusiform gyrus,rightofugoccipitalfusiformgyrus
+Left OFuG occipital fusiform gyrus,leftofugoccipitalfusiformgyrus
+Right OpIFG opercular part of the inferior frontal gyrus,rightopifgopercularpartoftheinferiorfrontalgyrus
+Left OpIFG opercular part of the inferior frontal gyrus,leftopifgopercularpartoftheinferiorfrontalgyrus
+Right OrIFG orbital part of the inferior frontal gyrus,rightorifgorbitalpartoftheinferiorfrontalgyrus
+Left OrIFG orbital part of the inferior frontal gyrus,leftorifgorbitalpartoftheinferiorfrontalgyrus
+Right PCgG posterior cingulate gyrus,rightpcggposteriorcingulategyrus
+Left PCgG posterior cingulate gyrus,leftpcggposteriorcingulategyrus
+Right PCu precuneus,rightpcuprecuneus
+Left PCu precuneus,leftpcuprecuneus
+Right PHG parahippocampal gyrus,rightphgparahippocampalgyrus
+Left PHG parahippocampal gyrus,leftphgparahippocampalgyrus
+Right PIns posterior insula,rightpinsposteriorinsula
+Left PIns posterior insula,leftpinsposteriorinsula
+Right PO parietal operculum,rightpoparietaloperculum
+Left PO parietal operculum,leftpoparietaloperculum
+Right PoG postcentral gyrus,rightpogpostcentralgyrus
+Left PoG postcentral gyrus,leftpogpostcentralgyrus
+Right POrG posterior orbital gyrus,rightporgposteriororbitalgyrus
+Left POrG posterior orbital gyrus,leftporgposteriororbitalgyrus
+Right PP planum polare,rightppplanumpolare
+Left PP planum polare,leftppplanumpolare
+Right PrG precentral gyrus,rightprgprecentralgyrus
+Left PrG precentral gyrus,leftprgprecentralgyrus
+Right PT planum temporale,rightptplanumtemporale
+Left PT planum temporale,leftptplanumtemporale
+Right SCA subcallosal area,rightscasubcallosalarea
+Left SCA subcallosal area,leftscasubcallosalarea
+Right SFG superior frontal gyrus,rightsfgsuperiorfrontalgyrus
+Left SFG superior frontal gyrus,leftsfgsuperiorfrontalgyrus
+Right SMC supplementary motor cortex,rightsmcsupplementarymotorcortex
+Left SMC supplementary motor cortex,leftsmcsupplementarymotorcortex
+Right SMG supramarginal gyrus,rightsmgsupramarginalgyrus
+Left SMG supramarginal gyrus,leftsmgsupramarginalgyrus
+Right SOG superior occipital gyrus,rightsogsuperioroccipitalgyrus
+Left SOG superior occipital gyrus,leftsogsuperioroccipitalgyrus
+Right SPL superior parietal lobule,rightsplsuperiorparietallobule
+Left SPL superior parietal lobule,leftsplsuperiorparietallobule
+Right STG superior temporal gyrus,rightstgsuperiortemporalgyrus
+Left STG superior temporal gyrus,leftstgsuperiortemporalgyrus
+Right TMP temporal pole,righttmptemporalpole
+Left TMP temporal pole,lefttmptemporalpole
+Right TrIFG triangular part of the inferior frontal gyrus,righttrifgtriangularpartoftheinferiorfrontalgyrus
+Left TrIFG triangular part of the inferior frontal gyrus,lefttrifgtriangularpartoftheinferiorfrontalgyrus
+Right TTG transverse temporal gyrus,rightttgtransversetemporalgyrus
+Left TTG transverse temporal gyrus,leftttgtransversetemporalgyrus
+Intracraneal,tiv
